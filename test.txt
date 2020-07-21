@@ -1,1 +1,2 @@
 This is a test.txt file for merge and conflict git example.
+This is also a line.
